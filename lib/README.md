@@ -1,0 +1,1 @@
+Note: motifcore is part of Sapienz and is available in binary. 
